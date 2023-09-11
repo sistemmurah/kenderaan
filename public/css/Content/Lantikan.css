@@ -1,0 +1,20 @@
+﻿.table-header-colored {
+    background-color: antiquewhite;
+}
+.colored {
+    background-color: antiquewhite;
+}
+.form-group {
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+.form-group label {
+    font-size: 1rem;
+    color: #000000;
+}
+.thcenter {
+    text-align: center;
+}
+.uppercase {
+    text-transform: uppercase;
+}
